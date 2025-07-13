@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+
+{% block head %}
+    <title>Index Page</title>
+    <style>
+        .one {
+            color: violet;
+        }
+
+        .two{
+            color: cyan;
+        }
+    </style>
+{% endblock %}
+
+
+{% block body %}
+    <h2>Hello $@! **7</h2>
+
+    <ul>
+        {% for member in members %}
+            <li class="{% cycle 'one' 'two' %}">{{ member }}</li>
+        {% endfor %}
+    </ul>
+
+    <span><h3>Developed By : {{ dev }}</h3></span>
+{% endblock %}

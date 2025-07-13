@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+
+{% block title %}
+    <title>Hello</title>
+{% endblock %}
+
+
+{% block body %}
+    {% include 'navbar.html' %}
+
+    <div class="container">
+        <h1 style="text-align: center; color: cyan;">Hello Sai Preetham</h1>
+
+        <ul class="collection">
+            <li class="collection-item">
+                <strong style="font-weight: 1000;">User Name :</strong>
+                <span style="float: right;">{{ User_Name }}</span>
+            </li>
+            <li class="collection-item">
+                <strong style="font-weight: 1000;">Password : </strong>
+                <span style="float: right;">{{ Password }}</span>
+            </li>
+        </ul>
+    </div>
+{% endblock %}

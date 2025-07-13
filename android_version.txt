@@ -1,0 +1,37 @@
+Name	Internal codename[11]	Version number(s)	API level	Release date
+Android 1.0	—	Unsupported: 1.0	1	September 23, 2008
+Android 1.1	Petit Four	Unsupported: 1.1	2	February 9, 2009
+Android Cupcake	Cupcake	Unsupported: 1.5	3	April 27, 2009
+Android Donut	Donut	Unsupported: 1.6	4	September 15, 2009
+Android Eclair	Eclair	Unsupported: 2.0	5	October 27, 2009
+Android Eclair	Eclair	Unsupported: 2.0.1	6	December 3, 2009
+Android Eclair	Eclair	Unsupported: 2.1	7	January 11, 2010[18]
+Android Froyo	Froyo	Unsupported: 2.2 – 2.2.3	8	May 20, 2010
+Android Gingerbread	Gingerbread	Unsupported: 2.3 – 2.3.2	9	December 6, 2010
+Android Gingerbread	Gingerbread	Unsupported: 2.3.3 – 2.3.7	10	February 9, 2011
+Android Honeycomb	Honeycomb	Unsupported: 3.0	11	February 22, 2011
+Android Honeycomb	Honeycomb	Unsupported: 3.1	12	May 10, 2011
+Android Honeycomb	Honeycomb	Unsupported: 3.2 – 3.2.6	13	July 15, 2011
+Android Ice Cream Sandwich	Ice Cream Sandwich	Unsupported: 4.0 – 4.0.2	14	October 18, 2011
+Android Ice Cream Sandwich	Ice Cream Sandwich	Unsupported: 4.0.3 – 4.0.4	15	December 16, 2011
+Android Jelly Bean	Jelly Bean	Unsupported: 4.1 – 4.1.2	16	July 9, 2012
+Android Jelly Bean	Jelly Bean	Unsupported: 4.2 – 4.2.2	17	November 13, 2012
+Android Jelly Bean	Jelly Bean	Unsupported: 4.3 – 4.3.1	18	July 24, 2013
+Android KitKat	Key Lime Pie	Unsupported: 4.4 – 4.4.4	19	October 31, 2013
+Android KitKat	Key Lime Pie	Unsupported: 4.4W – 4.4W.2	20	June 25, 2014
+Android Lollipop	Lemon Meringue Pie	Unsupported: 5.0 – 5.0.2	21	November 4, 2014[19]
+Android Lollipop	Lemon Meringue Pie	Unsupported: 5.1 – 5.1.1	22	March 2, 2015[20]
+Android Marshmallow	Macadamia Nut Cookie	Unsupported: 6.0 – 6.0.1	23	September 29, 2015[21]
+Android Nougat	New York Cheesecake	Unsupported: 7.0	24	August 22, 2016
+Android Nougat	New York Cheesecake	Unsupported: 7.1 – 7.1.2	25	October 4, 2016
+Android Oreo	Oatmeal Cookie	Unsupported: 8.0	26	August 21, 2017
+Android Oreo	Oatmeal Cookie	Unsupported: 8.1	27	December 5, 2017
+Android Pie	Pistachio Ice Cream[22]	Unsupported: 9	28	August 6, 2018
+Android 10	Quince Tart[23]	Unsupported: 10	29	September 3, 2019
+Android 11	Red Velvet Cake[23]	Unsupported: 11	30	September 8, 2020
+Android 12	Snow Cone	Unsupported: 12	31	October 4, 2021
+Android 12L	Snow Cone v2	Unsupported: 12.1[a]	32	March 7, 2022
+Android 13	Tiramisu	Supported: 13	33	August 15, 2022
+Android 14	Upside Down Cake[26]	Supported: 14	34	October 4, 2023
+Android 15	Vanilla Ice Cream[27]	Supported: 15	35	September 3, 2024
+Android 16	Baklava[28]	Latest version: 16	36	June 10, 2025
